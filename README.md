@@ -41,6 +41,12 @@ while True:
 
 
 
+
+
+
+
+
+
 ### SERVER
 ```
 import socket 
